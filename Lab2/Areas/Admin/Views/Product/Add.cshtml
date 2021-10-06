@@ -1,0 +1,108 @@
+﻿@model Lab2.Models.ProductModels
+@{
+    ViewData["Title"] = "Add";
+}
+<style>
+    .row {
+        margin-bottom: 10px;
+    }
+</style>
+<h1>Add</h1>
+<hr />
+
+<div class="container">
+    <form class="form-group" asp-controller="Product" asp-action="Add" method="post" enctype="multipart/form-data">
+        <div class="col-lg-6">
+            <div class="row">
+                <div class="col-sm-4">
+                    <label asp-for="ProductName"></label>
+                </div>
+                <div class="col-sm-8">
+                    <input asp-for="ProductName" class="form-control" />
+                    <span asp-validation-for="ProductName" class="text-danger"></span>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-sm-4">
+                    <label asp-for="CategoryId"></label>
+                </div>
+                <div class="col-sm-8">
+                    <select asp-for="CategoryId" class="form-control" asp-items="ViewBag.CategoryId"></select>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-sm-4">
+                    <label asp-for="ProductQuantity"></label>
+                </div>
+                <div class="col-sm-8">
+                    <input asp-for="ProductQuantity" class="form-control" />
+                    <span asp-validation-for="ProductQuantity" class="text-danger"></span>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-sm-4">
+                    <label asp-for="Descriptions"></label>
+                </div>
+                <div class="col-sm-8">
+                    <input asp-for="Descriptions" class="form-control" />
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-sm-4">
+                    <label asp-for="Color"></label>
+                </div>
+                <div class="col-sm-8">
+                    <input asp-for="Color" class="form-control" />
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-sm-4">
+                    <label asp-for="Ram"></label>
+                </div>
+                <div class="col-sm-8">
+                    <input asp-for="Ram" class="form-control" />
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-sm-4">
+                    <label asp-for="Rom"></label>
+                </div>
+                <div class="col-sm-8">
+                    <input asp-for="Rom" class="form-control" />
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-sm-4">
+                    <label asp-for="Batterycapacity"></label>
+                </div>
+                <div class="col-sm-8">
+                    <input asp-for="Batterycapacity" class="form-control" />
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-sm-4">
+                    <label asp-for="ProductPrice"></label>
+                </div>
+                <div class="col-sm-8">
+                    <input asp-for="ProductPrice" class="form-control" />
+                    <span asp-validation-for="ProductPrice" class="text-danger"></span>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-sm-4">
+                    <label asp-for="ProductImage"></label>
+                </div>
+                <div class="col-sm-8">
+                    <input type="file" class="form-control" name="photo" />
+                </div>
+            </div>
+            <div class="row">
+                <input type="submit" class="btn btn-outline-primary" value="Add" />
+            </div>
+            <a asp-action="Index" asp-controller="Product">Back to list</a>
+        </div>
+
+    </form>
+
+</div>
+

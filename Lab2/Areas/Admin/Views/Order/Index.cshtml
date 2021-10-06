@@ -1,0 +1,53 @@
+﻿@model IEnumerable<Lab2.Views.Order>
+
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Areas/Admin/Views/Shared/_Layout.cshtml";
+}
+
+<h2 class="text-info">Order</h2>
+
+<table class="table table-striped border">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.CustomerName)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.OrderDate)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.CustomerAddress)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.CustomerPhone)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.CustomerName)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.OrderDate)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.CustomerAddress)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.CustomerPhone)
+                </td>
+                <td>
+                        
+                        <a type="button" class="btn btn-success" href="@Url.Content("~/Admin/OrderDetails/Index/"+ item.OrderId )"><i class="far fa-list-alt"></i></a>
+                        <a type="button" class="btn btn-danger" href="@Url.Action("Delete", new { id = item.OrderId })"><i class="far fa-trash-alt"></i></a>
+                    
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

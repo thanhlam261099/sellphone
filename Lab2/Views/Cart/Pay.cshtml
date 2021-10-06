@@ -1,0 +1,52 @@
+﻿
+@{
+    ViewData["Title"] = "Pay";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+<h2>Đơn đặt hàng</h2>
+<div class="row">
+        <div class="col-md-10">
+            <form asp-action="Pay" asp-controller="Cart" method="post" enctype="multipart/form-data">
+                <div class="form-group row">
+                    <label class="col-sm-3 col-form-label">Tên khách hàng</label>
+                    <div class="col-sm-6">
+                        <input name="tenkhachhang" class="form-control"  id="tenkh" required pattern="[A-Za-z]+">
+                    </div>
+                    <span class="text-danger"></span>
+                </div>
+                <div class="form-group row">
+                    <label class="col-sm-3 col-form-label">Email</label>
+                    <div class="col-sm-6">
+                        <input type="email"  name="email" class="form-control" id="email"placeholder="email@example.com" autofocus>
+                    </div>
+                    <span class="text-danger"></span>
+                </div>
+                <div class="form-group row">
+                    <label class="col-sm-3 col-form-label">Số điện thoại</label>
+                    <div class="col-sm-6">
+                        <input type="tel" name="sdt" class="form-control" id="sdt" required>
+                    </div>
+                    <span class="text-danger"></span>
+                </div>
+                <div class="form-group row">
+                    <label class="col-sm-3 col-form-label">Địa chỉ</label>
+                    <div class="col-sm-6">
+                        <input name="diachi" class="form-control" id="diachi" required>
+                    </div>
+                </div>
+                <div class="form-group row">
+                    <label class="col-sm-3 col-form-label">Tổng số tiền</label>
+                    <div class="col-sm-6">
+                        @ViewBag.total
+                    </div>
+                </div>
+                <div class="form-group" >
+                    <a asp-controller="Cart" class="btn btn-primary" asp-action="Checkout">Đặt Hàng</a>
+                </div>
+                <a asp-action="Index" asp-controller="Cart">Back to List</a>
+            </form>
+        </div>
+    </div>
+
+
+

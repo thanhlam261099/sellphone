@@ -1,0 +1,210 @@
+C:\Users\tanqu\Desktop\Lab2\Lab2\obj\Debug\netcoreapp2.2\Lab2.csprojAssemblyReference.cache
+C:\Users\tanqu\Desktop\Lab2\Lab2\obj\Debug\netcoreapp2.2\Lab2.csproj.CoreCompileInputs.cache
+C:\Users\tanqu\Desktop\Lab2\Lab2\obj\Debug\netcoreapp2.2\Lab2.RazorAssemblyInfo.cache
+C:\Users\tanqu\Desktop\Lab2\Lab2\obj\Debug\netcoreapp2.2\Lab2.RazorAssemblyInfo.cs
+C:\Users\tanqu\Desktop\Lab2\Lab2\obj\Debug\netcoreapp2.2\Lab2.AssemblyInfoInputs.cache
+C:\Users\tanqu\Desktop\Lab2\Lab2\obj\Debug\netcoreapp2.2\Lab2.AssemblyInfo.cs
+C:\Users\tanqu\Desktop\Lab2\Lab2\obj\Debug\netcoreapp2.2\Lab2.TagHelpers.input.cache
+C:\Users\tanqu\Desktop\Lab2\Lab2\obj\Debug\netcoreapp2.2\Lab2.TagHelpers.output.cache
+C:\Users\tanqu\Desktop\Lab2\Lab2\obj\Debug\netcoreapp2.2\Lab2.RazorCoreGenerate.cache
+C:\Users\tanqu\Desktop\Lab2\Lab2\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\tanqu\Desktop\Lab2\Lab2\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Error.g.cshtml.cs
+C:\Users\tanqu\Desktop\Lab2\Lab2\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\tanqu\Desktop\Lab2\Lab2\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\tanqu\Desktop\Lab2\Lab2\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\tanqu\Desktop\Lab2\Lab2\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\tanqu\Desktop\Lab2\Lab2\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\tanqu\Desktop\Lab2\Lab2\obj\Debug\netcoreapp2.2\Lab2.RazorTargetAssemblyInfo.cache
+C:\Users\tanqu\Desktop\Lab2\Lab2\obj\Debug\netcoreapp2.2\Lab2.RazorTargetAssemblyInfo.cs
+C:\Users\tanqu\Desktop\Lab2\Lab2\obj\Debug\netcoreapp2.2\Lab2.dll
+C:\Users\tanqu\Desktop\Lab2\Lab2\obj\Debug\netcoreapp2.2\Lab2.pdb
+C:\Users\tanqu\Desktop\Lab2\Lab2\bin\Debug\netcoreapp2.2\Lab2.deps.json
+C:\Users\tanqu\Desktop\Lab2\Lab2\bin\Debug\netcoreapp2.2\Lab2.runtimeconfig.json
+C:\Users\tanqu\Desktop\Lab2\Lab2\bin\Debug\netcoreapp2.2\Lab2.runtimeconfig.dev.json
+C:\Users\tanqu\Desktop\Lab2\Lab2\bin\Debug\netcoreapp2.2\Lab2.dll
+C:\Users\tanqu\Desktop\Lab2\Lab2\bin\Debug\netcoreapp2.2\Lab2.pdb
+C:\Users\tanqu\Desktop\Lab2\Lab2\bin\Debug\netcoreapp2.2\Lab2.Views.dll
+C:\Users\tanqu\Desktop\Lab2\Lab2\bin\Debug\netcoreapp2.2\Lab2.Views.pdb
+C:\Users\tanqu\Desktop\Lab2\Lab2\obj\Debug\netcoreapp2.2\Lab2.Views.pdb
+C:\Users\tanqu\Desktop\Lab2\Lab2\obj\Debug\netcoreapp2.2\Lab2.csproj.CopyComplete
+C:\Users\tanqu\Desktop\Lab2\Lab2\obj\Debug\netcoreapp2.2\Razor\Views\Detail\Index.g.cshtml.cs
+D:\Lab2\Lab2\bin\Debug\netcoreapp2.2\Lab2.deps.json
+D:\Lab2\Lab2\bin\Debug\netcoreapp2.2\Lab2.runtimeconfig.json
+D:\Lab2\Lab2\bin\Debug\netcoreapp2.2\Lab2.runtimeconfig.dev.json
+D:\Lab2\Lab2\bin\Debug\netcoreapp2.2\Lab2.dll
+D:\Lab2\Lab2\bin\Debug\netcoreapp2.2\Lab2.pdb
+D:\Lab2\Lab2\bin\Debug\netcoreapp2.2\Lab2.Views.dll
+D:\Lab2\Lab2\bin\Debug\netcoreapp2.2\Lab2.Views.pdb
+D:\Lab2\Lab2\obj\Debug\netcoreapp2.2\Lab2.csproj.CoreCompileInputs.cache
+D:\Lab2\Lab2\obj\Debug\netcoreapp2.2\Lab2.RazorAssemblyInfo.cache
+D:\Lab2\Lab2\obj\Debug\netcoreapp2.2\Lab2.RazorAssemblyInfo.cs
+D:\Lab2\Lab2\obj\Debug\netcoreapp2.2\Lab2.AssemblyInfoInputs.cache
+D:\Lab2\Lab2\obj\Debug\netcoreapp2.2\Lab2.AssemblyInfo.cs
+D:\Lab2\Lab2\obj\Debug\netcoreapp2.2\Lab2.TagHelpers.input.cache
+D:\Lab2\Lab2\obj\Debug\netcoreapp2.2\Lab2.TagHelpers.output.cache
+D:\Lab2\Lab2\obj\Debug\netcoreapp2.2\Lab2.RazorCoreGenerate.cache
+D:\Lab2\Lab2\obj\Debug\netcoreapp2.2\Razor\Areas\Admin\Views\_ViewImports.g.cshtml.cs
+D:\Lab2\Lab2\obj\Debug\netcoreapp2.2\Razor\Areas\Admin\Views\_ViewStart.g.cshtml.cs
+D:\Lab2\Lab2\obj\Debug\netcoreapp2.2\Razor\Views\Account\Login.g.cshtml.cs
+D:\Lab2\Lab2\obj\Debug\netcoreapp2.2\Razor\Views\Account\Register.g.cshtml.cs
+D:\Lab2\Lab2\obj\Debug\netcoreapp2.2\Razor\Views\Cart\Index.g.cshtml.cs
+D:\Lab2\Lab2\obj\Debug\netcoreapp2.2\Razor\Views\Cart\Pay.g.cshtml.cs
+D:\Lab2\Lab2\obj\Debug\netcoreapp2.2\Razor\Views\Detail\Index.g.cshtml.cs
+D:\Lab2\Lab2\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.g.cshtml.cs
+D:\Lab2\Lab2\obj\Debug\netcoreapp2.2\Razor\Views\Home\Privacy.g.cshtml.cs
+D:\Lab2\Lab2\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Error.g.cshtml.cs
+D:\Lab2\Lab2\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+D:\Lab2\Lab2\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.g.cshtml.cs
+D:\Lab2\Lab2\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_LoginPartial.g.cshtml.cs
+D:\Lab2\Lab2\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+D:\Lab2\Lab2\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.g.cshtml.cs
+D:\Lab2\Lab2\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.g.cshtml.cs
+D:\Lab2\Lab2\obj\Debug\netcoreapp2.2\Lab2.RazorTargetAssemblyInfo.cache
+D:\Lab2\Lab2\obj\Debug\netcoreapp2.2\Lab2.RazorTargetAssemblyInfo.cs
+D:\Lab2\Lab2\obj\Debug\netcoreapp2.2\Lab2.Views.pdb
+D:\Lab2\Lab2\obj\Debug\netcoreapp2.2\Lab2.dll
+D:\Lab2\Lab2\obj\Debug\netcoreapp2.2\Lab2.pdb
+D:\Lab2\Lab2\obj\Debug\netcoreapp2.2\Lab2.csproj.CopyComplete
+D:\Lab2\Lab2\obj\Debug\netcoreapp2.2\Lab2.csprojAssemblyReference.cache
+D:\Lab2\Lab2\obj\Debug\netcoreapp2.2\Razor\Areas\Admin\Views\Product\Index.g.cshtml.cs
+D:\Lab2\Lab2\obj\Debug\netcoreapp2.2\Razor\Areas\Admin\Views\Product\Add.g.cshtml.cs
+D:\Lab2\Lab2\obj\Debug\netcoreapp2.2\Razor\Areas\Admin\Views\Product\Edit.g.cshtml.cs
+D:\Lab2\Lab2\obj\Debug\netcoreapp2.2\Razor\Areas\Admin\Views\Product\Delete.g.cshtml.cs
+D:\Lab2\Lab2\obj\Debug\netcoreapp2.2\Razor\Views\Cart\Checkout.g.cshtml.cs
+C:\Users\tanqu\Desktop\Lab2\Lab2\obj\Debug\netcoreapp2.2\Razor\Areas\Admin\Views\Product\Add.g.cshtml.cs
+C:\Users\tanqu\Desktop\Lab2\Lab2\obj\Debug\netcoreapp2.2\Razor\Areas\Admin\Views\Product\Delete.g.cshtml.cs
+C:\Users\tanqu\Desktop\Lab2\Lab2\obj\Debug\netcoreapp2.2\Razor\Areas\Admin\Views\Product\Edit.g.cshtml.cs
+C:\Users\tanqu\Desktop\Lab2\Lab2\obj\Debug\netcoreapp2.2\Razor\Areas\Admin\Views\Product\Index.g.cshtml.cs
+C:\Users\tanqu\Desktop\Lab2\Lab2\obj\Debug\netcoreapp2.2\Razor\Areas\Admin\Views\_ViewImports.g.cshtml.cs
+C:\Users\tanqu\Desktop\Lab2\Lab2\obj\Debug\netcoreapp2.2\Razor\Areas\Admin\Views\_ViewStart.g.cshtml.cs
+C:\Users\tanqu\Desktop\Lab2\Lab2\obj\Debug\netcoreapp2.2\Razor\Views\Account\Login.g.cshtml.cs
+C:\Users\tanqu\Desktop\Lab2\Lab2\obj\Debug\netcoreapp2.2\Razor\Views\Account\Register.g.cshtml.cs
+C:\Users\tanqu\Desktop\Lab2\Lab2\obj\Debug\netcoreapp2.2\Razor\Views\Cart\Checkout.g.cshtml.cs
+C:\Users\tanqu\Desktop\Lab2\Lab2\obj\Debug\netcoreapp2.2\Razor\Views\Cart\Index.g.cshtml.cs
+C:\Users\tanqu\Desktop\Lab2\Lab2\obj\Debug\netcoreapp2.2\Razor\Views\Cart\Pay.g.cshtml.cs
+C:\Users\tanqu\Desktop\Lab2\Lab2\obj\Debug\netcoreapp2.2\Razor\Views\Home\Privacy.g.cshtml.cs
+C:\Users\tanqu\Desktop\Lab2\Lab2\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_LoginPartial.g.cshtml.cs
+C:\Users\hoaqs\Downloads\Lab2\Lab2\bin\Debug\netcoreapp2.2\Lab2.deps.json
+C:\Users\hoaqs\Downloads\Lab2\Lab2\bin\Debug\netcoreapp2.2\Lab2.runtimeconfig.json
+C:\Users\hoaqs\Downloads\Lab2\Lab2\bin\Debug\netcoreapp2.2\Lab2.runtimeconfig.dev.json
+C:\Users\hoaqs\Downloads\Lab2\Lab2\bin\Debug\netcoreapp2.2\Lab2.dll
+C:\Users\hoaqs\Downloads\Lab2\Lab2\bin\Debug\netcoreapp2.2\Lab2.pdb
+C:\Users\hoaqs\Downloads\Lab2\Lab2\bin\Debug\netcoreapp2.2\Lab2.Views.dll
+C:\Users\hoaqs\Downloads\Lab2\Lab2\bin\Debug\netcoreapp2.2\Lab2.Views.pdb
+C:\Users\hoaqs\Downloads\Lab2\Lab2\obj\Debug\netcoreapp2.2\Lab2.csprojAssemblyReference.cache
+C:\Users\hoaqs\Downloads\Lab2\Lab2\obj\Debug\netcoreapp2.2\Lab2.csproj.CoreCompileInputs.cache
+C:\Users\hoaqs\Downloads\Lab2\Lab2\obj\Debug\netcoreapp2.2\Lab2.RazorAssemblyInfo.cache
+C:\Users\hoaqs\Downloads\Lab2\Lab2\obj\Debug\netcoreapp2.2\Lab2.RazorAssemblyInfo.cs
+C:\Users\hoaqs\Downloads\Lab2\Lab2\obj\Debug\netcoreapp2.2\Lab2.AssemblyInfoInputs.cache
+C:\Users\hoaqs\Downloads\Lab2\Lab2\obj\Debug\netcoreapp2.2\Lab2.AssemblyInfo.cs
+C:\Users\hoaqs\Downloads\Lab2\Lab2\obj\Debug\netcoreapp2.2\Lab2.TagHelpers.input.cache
+C:\Users\hoaqs\Downloads\Lab2\Lab2\obj\Debug\netcoreapp2.2\Lab2.TagHelpers.output.cache
+C:\Users\hoaqs\Downloads\Lab2\Lab2\obj\Debug\netcoreapp2.2\Lab2.RazorCoreGenerate.cache
+C:\Users\hoaqs\Downloads\Lab2\Lab2\obj\Debug\netcoreapp2.2\Razor\Areas\Admin\Views\Product\Add.g.cshtml.cs
+C:\Users\hoaqs\Downloads\Lab2\Lab2\obj\Debug\netcoreapp2.2\Razor\Areas\Admin\Views\Product\Delete.g.cshtml.cs
+C:\Users\hoaqs\Downloads\Lab2\Lab2\obj\Debug\netcoreapp2.2\Razor\Areas\Admin\Views\Product\Edit.g.cshtml.cs
+C:\Users\hoaqs\Downloads\Lab2\Lab2\obj\Debug\netcoreapp2.2\Razor\Areas\Admin\Views\Product\Index.g.cshtml.cs
+C:\Users\hoaqs\Downloads\Lab2\Lab2\obj\Debug\netcoreapp2.2\Razor\Areas\Admin\Views\_ViewImports.g.cshtml.cs
+C:\Users\hoaqs\Downloads\Lab2\Lab2\obj\Debug\netcoreapp2.2\Razor\Areas\Admin\Views\_ViewStart.g.cshtml.cs
+C:\Users\hoaqs\Downloads\Lab2\Lab2\obj\Debug\netcoreapp2.2\Razor\Views\Account\Login.g.cshtml.cs
+C:\Users\hoaqs\Downloads\Lab2\Lab2\obj\Debug\netcoreapp2.2\Razor\Views\Account\Register.g.cshtml.cs
+C:\Users\hoaqs\Downloads\Lab2\Lab2\obj\Debug\netcoreapp2.2\Razor\Views\Cart\Checkout.g.cshtml.cs
+C:\Users\hoaqs\Downloads\Lab2\Lab2\obj\Debug\netcoreapp2.2\Razor\Views\Cart\Index.g.cshtml.cs
+C:\Users\hoaqs\Downloads\Lab2\Lab2\obj\Debug\netcoreapp2.2\Razor\Views\Cart\Pay.g.cshtml.cs
+C:\Users\hoaqs\Downloads\Lab2\Lab2\obj\Debug\netcoreapp2.2\Razor\Views\Detail\Index.g.cshtml.cs
+C:\Users\hoaqs\Downloads\Lab2\Lab2\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\hoaqs\Downloads\Lab2\Lab2\obj\Debug\netcoreapp2.2\Razor\Views\Home\Privacy.g.cshtml.cs
+C:\Users\hoaqs\Downloads\Lab2\Lab2\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Error.g.cshtml.cs
+C:\Users\hoaqs\Downloads\Lab2\Lab2\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\hoaqs\Downloads\Lab2\Lab2\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\hoaqs\Downloads\Lab2\Lab2\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_LoginPartial.g.cshtml.cs
+C:\Users\hoaqs\Downloads\Lab2\Lab2\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\hoaqs\Downloads\Lab2\Lab2\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\hoaqs\Downloads\Lab2\Lab2\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\hoaqs\Downloads\Lab2\Lab2\obj\Debug\netcoreapp2.2\Lab2.RazorTargetAssemblyInfo.cache
+C:\Users\hoaqs\Downloads\Lab2\Lab2\obj\Debug\netcoreapp2.2\Lab2.RazorTargetAssemblyInfo.cs
+C:\Users\hoaqs\Downloads\Lab2\Lab2\obj\Debug\netcoreapp2.2\Lab2.Views.pdb
+C:\Users\hoaqs\Downloads\Lab2\Lab2\obj\Debug\netcoreapp2.2\Lab2.dll
+C:\Users\hoaqs\Downloads\Lab2\Lab2\obj\Debug\netcoreapp2.2\Lab2.pdb
+C:\Users\hoaqs\Downloads\Lab2\Lab2\obj\Debug\netcoreapp2.2\Lab2.csproj.CopyComplete
+C:\Users\hoaqs\Downloads\Lab2\Lab2\obj\Debug\netcoreapp2.2\Razor\Areas\Admin\Views\Categories\Create.g.cshtml.cs
+C:\Users\hoaqs\Downloads\Lab2\Lab2\obj\Debug\netcoreapp2.2\Razor\Areas\Admin\Views\Categories\Delete.g.cshtml.cs
+C:\Users\hoaqs\Downloads\Lab2\Lab2\obj\Debug\netcoreapp2.2\Razor\Areas\Admin\Views\Categories\Details.g.cshtml.cs
+C:\Users\hoaqs\Downloads\Lab2\Lab2\obj\Debug\netcoreapp2.2\Razor\Areas\Admin\Views\Categories\Edit.g.cshtml.cs
+C:\Users\hoaqs\Downloads\Lab2\Lab2\obj\Debug\netcoreapp2.2\Razor\Areas\Admin\Views\Categories\Index.g.cshtml.cs
+C:\Users\hoaqs\Downloads\Lab2\Lab2\obj\Debug\netcoreapp2.2\Razor\Areas\Admin\Views\Homes\Index.g.cshtml.cs
+C:\Users\hoaqs\Downloads\Lab2\Lab2\obj\Debug\netcoreapp2.2\Razor\Areas\Admin\Views\Shared\Error.g.cshtml.cs
+C:\Users\hoaqs\Downloads\Lab2\Lab2\obj\Debug\netcoreapp2.2\Razor\Areas\Admin\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\hoaqs\Downloads\Lab2\Lab2\obj\Debug\netcoreapp2.2\Razor\Areas\Admin\Views\Shared\_LoginPartial.g.cshtml.cs
+C:\Users\hoaqs\Downloads\Lab2\Lab2\obj\Debug\netcoreapp2.2\Razor\Areas\Admin\Views\Shared\_TableButtonPartial.g.cshtml.cs
+C:\Users\hoaqs\Downloads\Lab2\Lab2\obj\Debug\netcoreapp2.2\Razor\Areas\Admin\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\hoaqs\Downloads\Lab2\Lab2\obj\Debug\netcoreapp2.2\Razor\Areas\Admin\Views\AdminUsers\Index.g.cshtml.cs
+C:\Users\hoaqs\Downloads\Lab2\Lab2\obj\Debug\netcoreapp2.2\Razor\Areas\Admin\Views\AdminUsers\Edit.g.cshtml.cs
+C:\Users\hoaqs\Downloads\Lab2\Lab2\obj\Debug\netcoreapp2.2\Razor\Areas\Admin\Views\AdminUsers\Delete.g.cshtml.cs
+C:\Users\hoaqs\Downloads\Lab2\Lab2\obj\Debug\netcoreapp2.2\Razor\Areas\Admin\Views\Order\Index.g.cshtml.cs
+C:\Users\hoaqs\Downloads\Lab2\Lab2\obj\Debug\netcoreapp2.2\Razor\Areas\Admin\Views\Order\Edit.g.cshtml.cs
+C:\Users\hoaqs\Downloads\Lab2\Lab2\obj\Debug\netcoreapp2.2\Razor\Areas\Admin\Views\Order\Delete.g.cshtml.cs
+C:\Users\hoaqs\Downloads\New folder\Lab2\Lab2\bin\Debug\netcoreapp2.2\Lab2.deps.json
+C:\Users\hoaqs\Downloads\New folder\Lab2\Lab2\bin\Debug\netcoreapp2.2\Lab2.runtimeconfig.json
+C:\Users\hoaqs\Downloads\New folder\Lab2\Lab2\bin\Debug\netcoreapp2.2\Lab2.runtimeconfig.dev.json
+C:\Users\hoaqs\Downloads\New folder\Lab2\Lab2\bin\Debug\netcoreapp2.2\Lab2.dll
+C:\Users\hoaqs\Downloads\New folder\Lab2\Lab2\bin\Debug\netcoreapp2.2\Lab2.pdb
+C:\Users\hoaqs\Downloads\New folder\Lab2\Lab2\bin\Debug\netcoreapp2.2\Lab2.Views.dll
+C:\Users\hoaqs\Downloads\New folder\Lab2\Lab2\bin\Debug\netcoreapp2.2\Lab2.Views.pdb
+C:\Users\hoaqs\Downloads\New folder\Lab2\Lab2\obj\Debug\netcoreapp2.2\Lab2.csprojAssemblyReference.cache
+C:\Users\hoaqs\Downloads\New folder\Lab2\Lab2\obj\Debug\netcoreapp2.2\Lab2.csproj.CoreCompileInputs.cache
+C:\Users\hoaqs\Downloads\New folder\Lab2\Lab2\obj\Debug\netcoreapp2.2\Lab2.RazorAssemblyInfo.cache
+C:\Users\hoaqs\Downloads\New folder\Lab2\Lab2\obj\Debug\netcoreapp2.2\Lab2.RazorAssemblyInfo.cs
+C:\Users\hoaqs\Downloads\New folder\Lab2\Lab2\obj\Debug\netcoreapp2.2\Lab2.AssemblyInfoInputs.cache
+C:\Users\hoaqs\Downloads\New folder\Lab2\Lab2\obj\Debug\netcoreapp2.2\Lab2.AssemblyInfo.cs
+C:\Users\hoaqs\Downloads\New folder\Lab2\Lab2\obj\Debug\netcoreapp2.2\Lab2.TagHelpers.input.cache
+C:\Users\hoaqs\Downloads\New folder\Lab2\Lab2\obj\Debug\netcoreapp2.2\Lab2.TagHelpers.output.cache
+C:\Users\hoaqs\Downloads\New folder\Lab2\Lab2\obj\Debug\netcoreapp2.2\Lab2.RazorCoreGenerate.cache
+C:\Users\hoaqs\Downloads\New folder\Lab2\Lab2\obj\Debug\netcoreapp2.2\Razor\Areas\Admin\Views\AdminUsers\Delete.g.cshtml.cs
+C:\Users\hoaqs\Downloads\New folder\Lab2\Lab2\obj\Debug\netcoreapp2.2\Razor\Areas\Admin\Views\AdminUsers\Edit.g.cshtml.cs
+C:\Users\hoaqs\Downloads\New folder\Lab2\Lab2\obj\Debug\netcoreapp2.2\Razor\Areas\Admin\Views\AdminUsers\Index.g.cshtml.cs
+C:\Users\hoaqs\Downloads\New folder\Lab2\Lab2\obj\Debug\netcoreapp2.2\Razor\Areas\Admin\Views\Categories\Create.g.cshtml.cs
+C:\Users\hoaqs\Downloads\New folder\Lab2\Lab2\obj\Debug\netcoreapp2.2\Razor\Areas\Admin\Views\Categories\Delete.g.cshtml.cs
+C:\Users\hoaqs\Downloads\New folder\Lab2\Lab2\obj\Debug\netcoreapp2.2\Razor\Areas\Admin\Views\Categories\Edit.g.cshtml.cs
+C:\Users\hoaqs\Downloads\New folder\Lab2\Lab2\obj\Debug\netcoreapp2.2\Razor\Areas\Admin\Views\Categories\Index.g.cshtml.cs
+C:\Users\hoaqs\Downloads\New folder\Lab2\Lab2\obj\Debug\netcoreapp2.2\Razor\Areas\Admin\Views\Homes\Index.g.cshtml.cs
+C:\Users\hoaqs\Downloads\New folder\Lab2\Lab2\obj\Debug\netcoreapp2.2\Razor\Areas\Admin\Views\Order\Delete.g.cshtml.cs
+C:\Users\hoaqs\Downloads\New folder\Lab2\Lab2\obj\Debug\netcoreapp2.2\Razor\Areas\Admin\Views\Order\Index.g.cshtml.cs
+C:\Users\hoaqs\Downloads\New folder\Lab2\Lab2\obj\Debug\netcoreapp2.2\Razor\Areas\Admin\Views\Product\Add.g.cshtml.cs
+C:\Users\hoaqs\Downloads\New folder\Lab2\Lab2\obj\Debug\netcoreapp2.2\Razor\Areas\Admin\Views\Product\Delete.g.cshtml.cs
+C:\Users\hoaqs\Downloads\New folder\Lab2\Lab2\obj\Debug\netcoreapp2.2\Razor\Areas\Admin\Views\Product\Edit.g.cshtml.cs
+C:\Users\hoaqs\Downloads\New folder\Lab2\Lab2\obj\Debug\netcoreapp2.2\Razor\Areas\Admin\Views\Product\Index.g.cshtml.cs
+C:\Users\hoaqs\Downloads\New folder\Lab2\Lab2\obj\Debug\netcoreapp2.2\Razor\Areas\Admin\Views\Shared\Error.g.cshtml.cs
+C:\Users\hoaqs\Downloads\New folder\Lab2\Lab2\obj\Debug\netcoreapp2.2\Razor\Areas\Admin\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\hoaqs\Downloads\New folder\Lab2\Lab2\obj\Debug\netcoreapp2.2\Razor\Areas\Admin\Views\Shared\_LoginPartial.g.cshtml.cs
+C:\Users\hoaqs\Downloads\New folder\Lab2\Lab2\obj\Debug\netcoreapp2.2\Razor\Areas\Admin\Views\Shared\_TableButtonPartial.g.cshtml.cs
+C:\Users\hoaqs\Downloads\New folder\Lab2\Lab2\obj\Debug\netcoreapp2.2\Razor\Areas\Admin\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\hoaqs\Downloads\New folder\Lab2\Lab2\obj\Debug\netcoreapp2.2\Razor\Areas\Admin\Views\_ViewImports.g.cshtml.cs
+C:\Users\hoaqs\Downloads\New folder\Lab2\Lab2\obj\Debug\netcoreapp2.2\Razor\Areas\Admin\Views\_ViewStart.g.cshtml.cs
+C:\Users\hoaqs\Downloads\New folder\Lab2\Lab2\obj\Debug\netcoreapp2.2\Razor\Views\Account\Login.g.cshtml.cs
+C:\Users\hoaqs\Downloads\New folder\Lab2\Lab2\obj\Debug\netcoreapp2.2\Razor\Views\Account\Register.g.cshtml.cs
+C:\Users\hoaqs\Downloads\New folder\Lab2\Lab2\obj\Debug\netcoreapp2.2\Razor\Views\Cart\Checkout.g.cshtml.cs
+C:\Users\hoaqs\Downloads\New folder\Lab2\Lab2\obj\Debug\netcoreapp2.2\Razor\Views\Cart\Index.g.cshtml.cs
+C:\Users\hoaqs\Downloads\New folder\Lab2\Lab2\obj\Debug\netcoreapp2.2\Razor\Views\Detail\Index.g.cshtml.cs
+C:\Users\hoaqs\Downloads\New folder\Lab2\Lab2\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\hoaqs\Downloads\New folder\Lab2\Lab2\obj\Debug\netcoreapp2.2\Razor\Views\Home\Privacy.g.cshtml.cs
+C:\Users\hoaqs\Downloads\New folder\Lab2\Lab2\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Error.g.cshtml.cs
+C:\Users\hoaqs\Downloads\New folder\Lab2\Lab2\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\hoaqs\Downloads\New folder\Lab2\Lab2\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\hoaqs\Downloads\New folder\Lab2\Lab2\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_LoginPartial.g.cshtml.cs
+C:\Users\hoaqs\Downloads\New folder\Lab2\Lab2\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\hoaqs\Downloads\New folder\Lab2\Lab2\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\hoaqs\Downloads\New folder\Lab2\Lab2\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\hoaqs\Downloads\New folder\Lab2\Lab2\obj\Debug\netcoreapp2.2\Lab2.RazorTargetAssemblyInfo.cache
+C:\Users\hoaqs\Downloads\New folder\Lab2\Lab2\obj\Debug\netcoreapp2.2\Lab2.RazorTargetAssemblyInfo.cs
+C:\Users\hoaqs\Downloads\New folder\Lab2\Lab2\obj\Debug\netcoreapp2.2\Lab2.Views.pdb
+C:\Users\hoaqs\Downloads\New folder\Lab2\Lab2\obj\Debug\netcoreapp2.2\Lab2.dll
+C:\Users\hoaqs\Downloads\New folder\Lab2\Lab2\obj\Debug\netcoreapp2.2\Lab2.pdb
+C:\Users\hoaqs\Downloads\New folder\Lab2\Lab2\obj\Debug\netcoreapp2.2\Lab2.csproj.CopyComplete
+C:\Users\hoaqs\Downloads\New folder\Lab2\Lab2\obj\Debug\netcoreapp2.2\Razor\Views\Home\Iphone.g.cshtml.cs
+C:\Users\hoaqs\Downloads\New folder\Lab2\Lab2\obj\Debug\netcoreapp2.2\Razor\Views\Home\Samsung.g.cshtml.cs
+C:\Users\hoaqs\Downloads\New folder\Lab2\Lab2\obj\Debug\netcoreapp2.2\Razor\Views\Home\Oppo.g.cshtml.cs
+C:\Users\hoaqs\Downloads\New folder\Lab2\Lab2\obj\Debug\netcoreapp2.2\Razor\Views\Home\Xiaomi.g.cshtml.cs
+C:\Users\hoaqs\Downloads\New folder\Lab2\Lab2\obj\Debug\netcoreapp2.2\Razor\Views\Home\Search.g.cshtml.cs
+C:\Users\hoaqs\Downloads\New folder\Lab2\Lab2\obj\Debug\netcoreapp2.2\Razor\Views\Cart\Pay.g.cshtml.cs
+C:\Users\hoaqs\Downloads\New folder\Lab2\Lab2\obj\Debug\netcoreapp2.2\Razor\Areas\Admin\Views\OrderDetails\Index.g.cshtml.cs

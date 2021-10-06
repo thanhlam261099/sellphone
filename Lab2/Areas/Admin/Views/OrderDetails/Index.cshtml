@@ -1,0 +1,91 @@
+﻿@model IEnumerable<Lab2.Views.OrderDetail>
+
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h1>Index</h1>
+<table class="table table-striped border">
+
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Order.CustomerName)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Order.CustomerPhone)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Order.CustomerAddress)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Order.OrderDate)
+            </th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Order.CustomerName)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Order.CustomerPhone)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Order.CustomerAddress)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Order.OrderDate)
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+<table class="table table-striped border">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Order.CustomerName)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Order.CustomerPhone)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Order.CustomerAddress)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Product.ProductName)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Product.ProductPrice)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Order.CustomerName)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Order.CustomerPhone)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Order.CustomerAddress)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Product.ProductName)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Product.ProductPrice)
+                </td>
+
+            </tr>
+        }
+    </tbody>
+</table>

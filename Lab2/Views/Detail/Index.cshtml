@@ -1,0 +1,97 @@
+﻿@model Lab2.Models.ProductModels
+@{
+    ViewData["Title"] = "Index";
+
+}
+
+<br />
+
+<div class="col-md-8">
+    <div class="product-content-right">
+        <div class="row">
+            <div class="col-sm-6">
+                <div class="product-images">
+                    <div class="product-main-img">
+                        <img src="~/images/@Model.ProductImage" width="550" height="550" atl="image" />
+                    </div>
+                </div>
+            </div>
+            <div class="col-sm-6">
+                <div class="product-inner">
+
+                    <h2 class="product-name"> @Html.DisplayFor(model => model.ProductName)</h2>
+                    <div class="product-inner-price">
+                        <ins> $@Html.DisplayFor(model => model.ProductPrice)</ins>
+                    </div>
+
+                    <form action="" class="cart">
+                        <div class="add-to-cart-link">
+                            <button asp-action="Buy" asp-controller="Cart" asp-route-id="@Model.ProductId" class="add_to_cart_button" type="submit">Add to cart</button>
+                        </div>
+                    </form>
+
+                    <div role="tabpanel">
+                        <ul class="product-tab" role="tablist">
+                            <li role="presentation" class="active"><a href="#home" aria-controls="home" role="tab" data-toggle="tab">Description</a></li>
+                        </ul>
+                        <div class="tab-content">
+                            <div role="tabpanel" class="tab-pane fade in active" id="home">
+                                <div class="row">
+                                    <div class="col-sm-12">
+                                        <dl class="row">
+                                            <dt class="col-sm-4">
+                                                @Html.DisplayNameFor(model => model.ProductName)
+                                            </dt>
+                                            <dd class="col-sm-6">
+                                                @Html.DisplayFor(model => model.ProductName)
+                                            </dd>
+                                            <dt class="col-sm-4">
+                                                @Html.DisplayNameFor(model => model.ProductPrice)
+                                            </dt>
+                                            <dd class="col-sm-8">
+                                                @Html.DisplayFor(model => model.ProductPrice)
+                                            </dd>
+                                            <dt class="col-sm-4">
+                                                @Html.DisplayNameFor(model => model.Descriptions)
+                                            </dt>
+                                            <dd class="col-sm-8">
+                                                @Html.DisplayFor(model => model.Descriptions)
+                                            </dd>
+                                            <dt class="col-sm-4">
+                                                @Html.DisplayNameFor(model => model.Color)
+                                            </dt>
+                                            <dd class="col-sm-8">
+                                                @Html.DisplayFor(model => model.Color)
+                                            </dd>
+                                            <dt class="col-sm-4">
+                                                @Html.DisplayNameFor(model => model.Ram)
+                                            </dt>
+                                            <dd class="col-sm-8">
+                                                @Html.DisplayFor(model => model.Ram)
+                                            </dd>
+                                            <dt class="col-sm-4">
+                                                @Html.DisplayNameFor(model => model.Rom)
+                                            </dt>
+                                            <dd class="col-sm-8">
+                                                @Html.DisplayFor(model => model.Rom)
+                                            </dd>
+                                            <dt class="col-sm-4">
+                                                @Html.DisplayNameFor(model => model.Batterycapacity)
+                                            </dt>
+                                            <dd class="col-sm-8">
+                                                @Html.DisplayFor(model => model.Batterycapacity)
+                                            </dd>
+                                        </dl>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                </div>
+
+            </div>
+        </div>
+        
+    </div>
+    </div>
